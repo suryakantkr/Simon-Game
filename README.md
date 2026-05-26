@@ -6,7 +6,7 @@ A clean, responsive implementation of the memory-building **Simon Game**, styled
 
 ## 🚀 Live Demo
 
-Check out the running live web interface build here: **[Insert Your Hosting Link, e.g., GitHub Pages]**
+Check out the running live web interface build here: **[https://simon-game-clone-one.vercel.app/]**
 
 ---
 
